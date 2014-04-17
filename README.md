@@ -9,7 +9,7 @@ Simple rack based service which returns 200 for a word in its dictionary and 404
     http://0.0.0.0/ludacris    # => 404, Not found
 
 ## License
-Copyright (c) 2013 GitHub Inc.
+Copyright (c) 2014, Lee-Jon
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
